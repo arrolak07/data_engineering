@@ -1,12 +1,22 @@
 
                      --------------- DATA_INGESTION FOR TXT FILES----------------------
 
+
+# read a file
+file = open("test.txt", "r")
+contents = file.read()
+print(contents)
+
+# using with:
+with open("test.txt", "r") as file:
+    contents = file.read()
+    print(contents)
+
 # TXT
 # READING A FILE
 with open("/Users/keerthanasreearrola/Downloads/test.txt", "r") as file:
     contents = file.read()
     print(contents)
-
 
 # WRITING A FILE
 with open("/Users/keerthanasreearrola/Downloads/test.txt", "w") as file:
@@ -17,7 +27,6 @@ with open("/Users/keerthanasreearrola/Downloads/test.txt", "r") as file:
     contents = file.read()
     print(contents)
 
-
 # APPEND A TXT FILE
 with open("/Users/keerthanasreearrola/Downloads/test.txt", "a") as file:
     file.write("This is a Data Engineering Class.")
@@ -26,7 +35,6 @@ with open("/Users/keerthanasreearrola/Downloads/test.txt", "a") as file:
 with open("/Users/keerthanasreearrola/Downloads/test.txt", "r") as file:
     contents = file.read()
     print(contents)
-
 
 # READING A FILE WITH FUNCTION
 def read_txt_file(filename):
