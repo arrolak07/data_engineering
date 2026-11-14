@@ -1,4 +1,4 @@
-"""
+
 # Operations on Lists
 
 # Define a list
@@ -60,8 +60,6 @@ union_set = my_set.union(other_set)
 
 print(union_set)  # Output: {1, 2, 4, 5, 6, 7}
 
-
-
 # Operation on Dictionary
 
 # Define a dictionary
@@ -93,76 +91,5 @@ squared_numbers = []
 for number in range(1, 6):
     squared_numbers.append(number ** 2)
 print(squared_numbers)  # Output: [1, 4, 9, 16, 25]
-
-
-what are the built in functions
-elaborate types, what t is used for , most used
-    how these built in functions are used in DE.
-
-"""
-
-# parameter funtion
-
-def show_message(course):
-    print("Welcome to " + course)
-
-show_message("data engineering")
-
-# parameter function
-def greet(name):
-    print("Hello, " + name)
-greet("Keerthana")
-greet("Sree")
-# Add function (multiple parameter)
-def add(a,b):
-    return a + b
-result = add(1, 2)
-print(result)
-
-# Default parameter
-def greet(name="Sree"):
-    print("Hello, " + name)
-greet("Keerthana")
-greet()
-
-# Default parameter
-def power(base, exponent=2):
-    return base ** exponent
-print(power(2, 3))
-print(power(2))
-
-# args
-def add_numbers(*args):
-   return sum(args)
-
-print(add_numbers(1, 2, 3, 4, 5))
-print(add_numbers(1,2))
-
-print(add_numbers(*range(1,5)))
-
-"""
-1. take a json file 
-2. create a function
-3. which takes the json file as kwargs arguments.
-4. pass the json file as an argument
-5. print the json file.
-
-
-build different function 
-that should read log files, csv files, txt files, api 
-reading the data, writing the data, append te data(txt,csv,api(research),txt files)
-
-a sample file with data that needs to be cleaned
-
-"""
-# read a file
-file = open("test.txt", "r")
-contents = file.read()
-print(contents)
-
-# using with:
-with open("test.txt", "r") as file:
-    contents = file.read()
-    print(contents)
 
 
