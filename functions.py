@@ -77,3 +77,14 @@ def is_even(number):
 print(is_even(10))
 print(is_even(-5))
 
+# JSON FILE READ WITH kwargs
+import json
+def read_json(**kwargs):
+    file_name = kwargs["file"]
+
+    with open(file_name, "r") as file:
+        data = json.load(file)
+
+    print(data)
+
+read_json(file="/Users/keerthanasreearrola/Downloads/countries.json")
