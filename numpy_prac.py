@@ -1,10 +1,9 @@
 """
 NumPy (Numerical Python) : It is a powerful library in Python for numerical computing.
 Memory efficiency is more, speed -> very fast , math operations -> very powerful
-
 """
 import numpy as np
-""" 
+
 #1D
 a = np.array([1, 2, 3, 4, 5])
 print(a) # [1 2 3 4 5]
@@ -41,7 +40,6 @@ print(range_arr)
 linspace_arr = np.linspace(0, 1, 5)
 print(linspace_arr) # 5 points between 0 and 1
 
-"""
 # Element-wise operations
 a = np.array([1, 2, 3])
 b = np.array([4, 5, 6])
