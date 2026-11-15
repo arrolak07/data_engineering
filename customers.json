@@ -1,0 +1,302 @@
+[
+  {
+    "customer_id": 101,
+    "name": "Alice Smith",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 102,
+    "name": "Bob Smith",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 103,
+    "name": "Carol Smith",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 104,
+    "name": "David Smith",
+    "city": null
+  },
+  {
+    "customer_id": 105,
+    "name": "Eva Smith",
+    "city": "Nashville"
+  },
+  {
+    "customer_id": 106,
+    "name": "Frank Smith",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 107,
+    "name": "Grace Smith",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 108,
+    "name": "Henry Smith",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 109,
+    "name": "Ivy Smith",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 110,
+    "name": "Jack Smith",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 111,
+    "name": "Alice Patel",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 112,
+    "name": "Bob Patel",
+    "city": null
+  },
+  {
+    "customer_id": 113,
+    "name": "Carol Patel",
+    "city": "Knoxville"
+  },
+  {
+    "customer_id": 114,
+    "name": "David Patel",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 115,
+    "name": "Eva Patel",
+    "city": "Nashville"
+  },
+  {
+    "customer_id": 116,
+    "name": "Frank Patel",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 117,
+    "name": "Grace Patel",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 118,
+    "name": "Henry Patel",
+    "city": "Nashville"
+  },
+  {
+    "customer_id": 119,
+    "name": "Ivy Patel",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 120,
+    "name": "Jack Patel",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 121,
+    "name": "Alice Garcia",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 122,
+    "name": "Bob Garcia",
+    "city": "Knoxville"
+  },
+  {
+    "customer_id": 123,
+    "name": "Carol Garcia",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 124,
+    "name": "David Garcia",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 125,
+    "name": "Eva Garcia",
+    "city": "Knoxville"
+  },
+  {
+    "customer_id": 126,
+    "name": "Frank Garcia",
+    "city": null
+  },
+  {
+    "customer_id": 127,
+    "name": "Grace Garcia",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 128,
+    "name": "Henry Garcia",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 129,
+    "name": "Ivy Garcia",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 130,
+    "name": "Jack Garcia",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 131,
+    "name": "Alice Chen",
+    "city": "Knoxville"
+  },
+  {
+    "customer_id": 132,
+    "name": "Bob Chen",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 133,
+    "name": "Carol Chen",
+    "city": "Knoxville"
+  },
+  {
+    "customer_id": 134,
+    "name": "David Chen",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 135,
+    "name": "Eva Chen",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 136,
+    "name": "Frank Chen",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 137,
+    "name": "Grace Chen",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 138,
+    "name": "Henry Chen",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 139,
+    "name": "Ivy Chen",
+    "city": "Nashville"
+  },
+  {
+    "customer_id": 140,
+    "name": "Jack Chen",
+    "city": "Nashville"
+  },
+  {
+    "customer_id": 141,
+    "name": "Alice Johnson",
+    "city": null
+  },
+  {
+    "customer_id": 142,
+    "name": "Bob Johnson",
+    "city": "Nashville"
+  },
+  {
+    "customer_id": 143,
+    "name": "Carol Johnson",
+    "city": "Knoxville"
+  },
+  {
+    "customer_id": 144,
+    "name": "David Johnson",
+    "city": "Nashville"
+  },
+  {
+    "customer_id": 145,
+    "name": "Eva Johnson",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 146,
+    "name": "Frank Johnson",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 147,
+    "name": "Grace Johnson",
+    "city": "Nashville"
+  },
+  {
+    "customer_id": 148,
+    "name": "Henry Johnson",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 149,
+    "name": "Ivy Johnson",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 150,
+    "name": "Jack Johnson",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 151,
+    "name": "Alice Kim",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 152,
+    "name": "Bob Kim",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 153,
+    "name": "Carol Kim",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 154,
+    "name": "David Kim",
+    "city": "Austin"
+  },
+  {
+    "customer_id": 155,
+    "name": "Eva Kim",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 156,
+    "name": "Frank Kim",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 157,
+    "name": "Grace Kim",
+    "city": "Knoxville"
+  },
+  {
+    "customer_id": 158,
+    "name": "Henry Kim",
+    "city": "Denver"
+  },
+  {
+    "customer_id": 159,
+    "name": "Ivy Kim",
+    "city": "Seattle"
+  },
+  {
+    "customer_id": 160,
+    "name": "Jack Kim",
+    "city": "Nashville"
+  }
+]
