@@ -43,7 +43,8 @@ print("   Lowest :", np.min(clean))
 
 # 7. LABEL each reading (np.where)
 labels = np.where(clean > average, "High", "Normal")
-print("7. High readings:", np.sum(labels == "High"), "| Normal readings:", np.sum(labels == "Normal"))
+print("7. Labels  :", labels)
+print("   High readings:", np.sum(labels == "High"))
 
 # 8. SCALE values to 0 - 1
 scaled = (clean - clean.min()) / (clean.max() - clean.min())
