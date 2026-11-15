@@ -1,6 +1,7 @@
 #                            ***** DATA INGETSION FOR API *******
 
 import requests
+
 # READ A API
 url = "https://dummyjson.com/products"
 response = requests.get(url)
@@ -15,3 +16,4 @@ def read_api(url):
     print(data)
 url = "https://dummyjson.com/products"
 read_api(url)
+
