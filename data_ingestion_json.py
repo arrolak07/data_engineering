@@ -24,7 +24,7 @@ data = {
             "code": "IN",
             "capital": "New Delhi",
             "region": "Asia",
-            "population": "13800000000",
+            "population": 13800000000,
             "currency": "INR"
         }
     ]
