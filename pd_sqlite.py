@@ -59,8 +59,6 @@ print(sales_by_customer)
 top_sales_by_customer = sales_by_customer.head(5)
 print(top_sales_by_customer)
 
-print(sales_by_month)
-print(sales_by_category)
 
 # 6. SAVE THE CURATED DATA TO SQLITE
 data["order_date"] = data["order_date"].dt.strftime("%Y-%m-%d")
